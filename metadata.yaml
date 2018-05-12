@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5415
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Fulda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14221#Aladdin-und-die-Wunderlampe--13-Tausend-und-einer-Nacht-nacherzaehlt
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2004-11-30'
 gutenberg_type: Text
