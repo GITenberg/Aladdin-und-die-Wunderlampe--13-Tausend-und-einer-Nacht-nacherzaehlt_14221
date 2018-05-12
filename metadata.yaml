@@ -1,0 +1,30 @@
+_repo: Aladdin-und-die-Wunderlampe--13-Tausend-und-einer-Nacht-nacherzaehlt_14221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fulda, Ludwig
+    alias: Salomon, Ludwig Anton
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '5415'
+    url: http://www.gutenberg.org/2009/agents/5415
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Fulda
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2004-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14221'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, German'
+- !lcc 'PZ'
+- !lcc 'PT'
+title: "Aladdin und die Wunderlampe\r\nTausend und einer Nacht nacherzaehlt"
+url: http://www.gutenberg.org/ebooks/14221
